@@ -27,8 +27,8 @@ The Virtual Water Footprint Calculator is a web application that helps users cal
 ### Step-by-Step Installation
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/virtual-water-footprint-calculator.git
-    cd virtual-water-footprint-calculator
+    git clone https://github.com/chandranshulg/VIRTUAL-WATER.git
+    cd VIRTUAL-WATER
     ```
 
 2. **Install Required Packages**:
